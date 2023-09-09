@@ -8,9 +8,9 @@ tags:
   - CS
 ---
 
+This is the start of my junior year. 
 
-
-This is the start of my junior year. I will start to update notes on this blog. I will also post some of my thoughts on the courses I am taking. The purpose of this blog is to help me organize my thoughts and notes, especially realted to Math and ML. Althought the primary focus is helping myself to learn, I hope that it will also be useful to others.
+I will start to update notes on this blog. I will also post some of my thoughts on the courses I am taking. The purpose of this blog is to help me organize my thoughts and notes, especially realted to Math and ML. Althought the primary focus is helping myself to learn, I hope that it will also be useful to others.
 
 # Courses
 I am taking the following courses this semester:
