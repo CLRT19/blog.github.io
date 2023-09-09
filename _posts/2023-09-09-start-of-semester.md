@@ -8,9 +8,11 @@ tags:
   - CS
 ---
 
+# Start of my Junior Year
 
 This is the start of my junior year. I will start to update notes on this blog. I will also post some of my thoughts on the courses I am taking. The purpose of this blog is to help me organize my thoughts and notes, especially realted to math and ML. Althought the primary focus is helping myself to learn, I hope that it will also be useful to others.
 
+# Courses
 I am taking the following courses this semester:
 
 - Math 721: Real Analysis
@@ -22,4 +24,5 @@ I am taking the following courses this semester:
 
 I also plan to listen some classes and will record notes in the blogs.
 
+# Teaching and Grading
 Finally, I will be the Grader for MATH 475: Introduction to Combinatorics, and will be the Peer Mentor for CS 540 this semester.
