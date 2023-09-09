@@ -26,3 +26,5 @@ I also plan to listen some classes and will record notes in the blogs.
 
 # Teaching and Grading
 Finally, I will be the Grader for MATH 475: Introduction to Combinatorics, and will be the Peer Mentor for CS 540 this semester.
+
+$$f(x)=\frac{1}{\sigma \sqrt{2 \pi}} e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}$$

@@ -11,7 +11,9 @@ redirect_from:
 
 
 ## Introduction
+This is the main page of my ML blog. I will post notes, thoughts, and paper reviews related to each of the below topics. Note this pages is still updating. Recent news will be posted on [Blog Posts](/_posts/) page.
 
+Last summer, when I am organizing my Probability Theory courses, I found writing things down really helps me to remember and understand the materials. I hope that this blog will help me to learn and understand ML better.
 ## Prerequisites
 
 ### Probablity and Statistics
