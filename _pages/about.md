@@ -14,6 +14,15 @@ redirect_from:
 This is the main page of my ML blog. I will post notes, thoughts, and paper reviews related to each of the below topics. Note this pages is still updating. Recent news will be posted on [Blog Posts](/blog.github.io/year-archive/) page.
 
 Last summer, when I am organizing my Probability Theory courses, I found writing things down really helps me to remember and understand the materials. I hope that this blog will help me to learn and understand ML better.
+
+The matrials are mainly from the following courses and books:
+- [CS 540: Introduction to Artificial Intelligence](https://pages.cs.wisc.edu/~kandasamy/courses/22fall-cs540/)
+- [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- [Deep Learning Book](https://www.deeplearningbook.org/)
+- [Dive into Deep Learning Book](https://d2l.ai/index.html)
+- [Principal of Mathematical Analysis](https://maa.org/press/maa-reviews/principles-of-mathematical-analysis)
+I have to put this book here, for Professor Rudin from our school, and for the best Analysis Intro Book.
+
 ## Prerequisites
 
 ### Probablity and Statistics
