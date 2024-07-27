@@ -1,6 +1,6 @@
 ---
 title: 'Some thoughts on the progression'
-date: 2023-09-09
+date: 2024-07-26
 permalink: /posts/2024/07/reflection/
 tags:
   - Research
