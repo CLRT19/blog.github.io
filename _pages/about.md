@@ -11,17 +11,19 @@ redirect_from:
 
 
 ## Introduction
-This is the main page of my ML blog. I will post notes, thoughts, and paper reviews related to each of the below topics. Note this pages is still updating. Recent news will be posted on [Blog Posts](/blog.github.io/year-archive/) page.
+This is the main page of my blog. I will post notes, thoughts, and paper reviews related to each of the below topics. Note this pages is still updating. Recent news will be posted on [Blog Posts](/blog.github.io/year-archive/) page.
 
-Last summer, when I am organizing my Probability Theory courses, I found writing things down really helps me to remember and understand the materials. I hope that this blog will help me to learn and understand ML better.
+During my sophomore summer, when I am organizing my Probability Theory courses, I found writing things down really helps me to remember and understand the materials. Thus, I decided to create some pointers and hopefully record something useful for myself and others.  
 
-The matrials are mainly from the following courses and books:
+Useful courses and books:
 - [CS 540: Introduction to Artificial Intelligence](https://pages.cs.wisc.edu/~kandasamy/courses/22fall-cs540/)
-- [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 - [Deep Learning Book](https://www.deeplearningbook.org/)
 - [Dive into Deep Learning Book](https://d2l.ai/index.html)
+- [Optimization for Data Analysis](https://www.cambridge.org/core/books/optimization-for-data-analysis/C02C3708905D236AA354D1CE1739A6A2)
 - [Principal of Mathematical Analysis](https://maa.org/press/maa-reviews/principles-of-mathematical-analysis)
-I have to put this book here, for Professor Rudin from our school, and for the best Analysis Intro Book.
+- I have to put this book here, for Professor Rudin from our school, and for the best Analysis Intro Book.
+
+Topics: 
 
 ## Prerequisites
 
